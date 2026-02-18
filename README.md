@@ -17,4 +17,4 @@ A lightweight desktop application built with Python and Tkinter. It allows users
 ## Setup and Execution
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+   git clone https://github.com/pakayca/python-movie-search-app.git
