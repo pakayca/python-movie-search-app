@@ -18,3 +18,10 @@ A lightweight desktop application built with Python and Tkinter. It allows users
 1. Clone this repository:
    ```bash
    git clone https://github.com/pakayca/python-movie-search-app.git
+   
+2. Get a free API key from OMDB API.
+
+3. Open main.py and paste your API key in the designated variable:
+  API_KEY = "YOUR_API_KEY_HERE"
+
+5. Run the application
